@@ -1,3 +1,5 @@
+// A simple program that determines your sleep debt
+
 const getSleepHours = day => {
     switch(day) {
       case 'monday':
